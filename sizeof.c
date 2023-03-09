@@ -19,5 +19,6 @@ int main()
     printf("Size of \"char\" is %lu byte(s)\n", sizeof(b));
     printf("Size of \"float\" is %lu byte(s)\n", sizeof(c));
     printf("Size of \"double\" is %lu byte(s)\n", sizeof(d));
+    
     return 0;
 }
